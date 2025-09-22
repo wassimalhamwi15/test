@@ -1,6 +1,0 @@
-{
-  "ver1": "3",
-  "ver2": "00",
-  "content": "<p><b>تحديث جديد 3.00</b></p>\n<li>نسخة مبنية على الإصدار 2.20.47.</li>\n<p><b>New Update 3.00</b></p>\n<li>Based on 2.20.47.</li>",
-  "url": "http://wassemsy.com/bakitk/index.php"
-}
